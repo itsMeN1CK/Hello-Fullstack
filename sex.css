@@ -61,7 +61,7 @@ p{
   height: 300px;
   width: 300x;
   font-size: 20px;
-  background-color:gray;
+  background-color: gray;
   text-align: center;
   display: flex;
   margin-right: 1020px;
@@ -69,4 +69,20 @@ p{
 
 .gg{
   text-align: center;
+}
+}
+.form{
+    margin-top: 700px;
+}
+.b1{
+    margin-inline: 170px;
+}
+.button{
+    margin-inline: 175px;
+}
+.b2{
+    margin-inline: 175px;
+}
+.prj123{
+    margin-inline: 45px;
 }
